@@ -31,3 +31,6 @@ sleep 20s
 yes Y | sudo apt-get update
 sleep 20s
 
+#install remmina
+sudo apt install remmina remmina-plugin-vnc
+sleep 5s
